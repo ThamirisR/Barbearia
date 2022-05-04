@@ -1,0 +1,60 @@
+.cabecalho{
+    width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+}
+
+.menu{
+    display: flex;
+    list-style: none;
+}
+
+.menu li{
+    padding-left: 30px;
+}
+
+.menu a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.menu a.link-ativo{
+    color: #1F1534;
+    text-align: left;
+    font-weight: 500;
+    font-size: 40.2857px;
+    line-height: 47px;
+}
+
+.background{
+    position: absolute;
+    width: 2000px;
+    height: 708px;
+    left: 0px;
+    right: 0px;
+    top: 60px;
+    background: #092C52;
+    display: flex;
+    align-items: center;
+}
+
+.coluna-esq{
+    color: white;
+}
+
+.coluna-dir{
+    position: absolute;
+    width: 470px;
+    height: 362px;
+    left: 835px;
+    top: 202px;
+    background: url(image/Foto.png);
+}
