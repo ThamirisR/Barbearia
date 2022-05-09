@@ -67,6 +67,8 @@ ul li {
     background-color: #F99420;
     border: solid 15px #F99420;
     text-decoration: none;
+    font-weight: 500;
+    font-size: 18px;
 }
 
 .banner02-conteudo {
@@ -280,7 +282,7 @@ ul li {
     padding-right: 374.61px;
     border: #F99420 solid 15px;
     background-color: #F99420;
-    font-size: 21px;
+    font-size: 19px;
     color: white;
     text-decoration: none;
     padding-right: 12px;
